@@ -1,0 +1,5 @@
+rootProject.name = 'bitcoin-test'
+
+include ':core'        // core
+include ':test'        // test
+
